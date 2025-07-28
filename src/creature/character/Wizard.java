@@ -1,4 +1,9 @@
-public class Wizard extends Character{
+package creature.character;
+
+import creature.Character;
+import creature.Creature;
+
+public class Wizard extends Character {
     private int mp;
     public Wizard(String name, int hp, int mp) {
         super(name, hp);

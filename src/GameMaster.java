@@ -1,3 +1,13 @@
+import creature.Character;
+import creature.Monster;
+import creature.character.Hero;
+import creature.character.SuperHero;
+import creature.character.Thief;
+import creature.character.Wizard;
+import creature.monster.Goblin;
+import creature.monster.Matango;
+import creature.monster.Slime;
+
 import java.util.ArrayList;
 
 public class GameMaster {

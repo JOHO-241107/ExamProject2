@@ -1,3 +1,7 @@
+package creature.character;
+
+import creature.Creature;
+
 public class SuperHero extends Hero {
     public SuperHero(Hero hero) {
         super(hero.getName(), hero.getHp(), hero.getWeapon());
